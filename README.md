@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Yolande 👋
 
-<!--
-**yolandehart-tech/yolandehart-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI Generalist | Building with Intelligence
 
-Here are some ideas to get you started:
+I don't write code — I orchestrate AI to build real, powerful products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Work With
+
+### 🧠 AI & Prompt Engineering
+- Local model deployment with Ollama & MSTY
+- Inference pipelines, Webhooks & APIs
+- System & meta prompting
+
+### 🔗 MCP (Model Context Protocol)
+- Claude MCP, Perplexity MCP, APIFY, KITE
+- Building micro-apps inside Claude
+- Multi-system integrations & dynamic data fetching
+
+### ⚡ Automation
+- n8n workflows & agentic AI
+- Lead management systems
+- AI-driven productivity workflows with Opal
+
+### 🎬 Video, Voice & Image AI
+- Personal AI clone (video + voice + image)
+- Real-time voice bots with Retell AI
+- Human-like AI interaction design
+
+### 🌐 Fullstack & Development
+- Ideate → Design → Build → Ship
+- AI coding assistants & Open Claw
+- Backend integrations & collaboration
+
+### 💰 AI Monetisation
+- Building & shipping AI-powered products
+- Community building & networking
+
+## 🌍 Based in Thailand / Australia
+
+## 📫 Connect with me
+- Email: yolandehart@gmail.com
