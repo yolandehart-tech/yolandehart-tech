@@ -38,4 +38,7 @@ I don't write code — I orchestrate AI to build real, powerful products.
 ## 🌍 Based in Thailand / Australia
 
 ## 📫 Connect with me
-- Email: yolandehart@gmail.com
+- 📧 Email: yolandehart@gmail.com
+- 💼 LinkedIn: [Yolande Hart](https://www.linkedin.com/in/yolande-hart-2376543b4/)
+
+  
